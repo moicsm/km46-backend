@@ -525,6 +525,25 @@ export type PromotionRuleValue = {
   deleted_at: Maybe<Scalars['DateTime']['output']>;
 };
 
+export type SalesChannel = {
+  __typename?: 'SalesChannel';
+  id: Scalars['ID']['output'];
+  name: Scalars['String']['output'];
+  description: Maybe<Scalars['String']['output']>;
+  is_disabled: Scalars['Boolean']['output'];
+  created_at: Scalars['DateTime']['output'];
+  metadata: Maybe<Scalars['JSON']['output']>;
+  updated_at: Scalars['DateTime']['output'];
+  deleted_at: Maybe<Scalars['DateTime']['output']>;
+  products_link: Maybe<Array<Maybe<LinkProductSalesChannel>>>;
+  api_keys_link: Maybe<Array<Maybe<LinkPublishableApiKeySalesChannel>>>;
+  publishable_api_keys: Maybe<Array<Maybe<ApiKey>>>;
+  carts: Maybe<Array<Maybe<Cart>>>;
+  orders: Maybe<Array<Maybe<Order>>>;
+  locations_link: Maybe<Array<Maybe<LinkSalesChannelStockLocation>>>;
+  stock_locations: Maybe<Array<Maybe<StockLocation>>>;
+};
+
 export type CustomerAddress = {
   __typename?: 'CustomerAddress';
   id: Scalars['ID']['output'];
@@ -595,25 +614,6 @@ export type Customer = {
   account_holders: Maybe<Array<Maybe<AccountHolder>>>;
   carts: Maybe<Array<Maybe<Cart>>>;
   orders: Maybe<Array<Maybe<Order>>>;
-};
-
-export type SalesChannel = {
-  __typename?: 'SalesChannel';
-  id: Scalars['ID']['output'];
-  name: Scalars['String']['output'];
-  description: Maybe<Scalars['String']['output']>;
-  is_disabled: Scalars['Boolean']['output'];
-  created_at: Scalars['DateTime']['output'];
-  metadata: Maybe<Scalars['JSON']['output']>;
-  updated_at: Scalars['DateTime']['output'];
-  deleted_at: Maybe<Scalars['DateTime']['output']>;
-  products_link: Maybe<Array<Maybe<LinkProductSalesChannel>>>;
-  api_keys_link: Maybe<Array<Maybe<LinkPublishableApiKeySalesChannel>>>;
-  publishable_api_keys: Maybe<Array<Maybe<ApiKey>>>;
-  carts: Maybe<Array<Maybe<Cart>>>;
-  orders: Maybe<Array<Maybe<Order>>>;
-  locations_link: Maybe<Array<Maybe<LinkSalesChannelStockLocation>>>;
-  stock_locations: Maybe<Array<Maybe<StockLocation>>>;
 };
 
 export type Cart = {
@@ -1009,20 +1009,6 @@ export type TaxProvider = {
   deleted_at: Maybe<Scalars['DateTime']['output']>;
 };
 
-export type Currency = {
-  __typename?: 'Currency';
-  code: Scalars['ID']['output'];
-  symbol: Scalars['String']['output'];
-  symbol_native: Scalars['String']['output'];
-  name: Scalars['String']['output'];
-  decimal_digits: Scalars['Int']['output'];
-  rounding: Scalars['Float']['output'];
-  raw_rounding: Scalars['JSON']['output'];
-  created_at: Scalars['DateTime']['output'];
-  updated_at: Scalars['DateTime']['output'];
-  deleted_at: Maybe<Scalars['DateTime']['output']>;
-};
-
 export type AccountHolder = {
   __typename?: 'AccountHolder';
   id: Scalars['ID']['output'];
@@ -1177,6 +1163,20 @@ export type Refund = {
   created_by: Maybe<Scalars['String']['output']>;
   metadata: Maybe<Scalars['JSON']['output']>;
   raw_amount: Scalars['JSON']['output'];
+  created_at: Scalars['DateTime']['output'];
+  updated_at: Scalars['DateTime']['output'];
+  deleted_at: Maybe<Scalars['DateTime']['output']>;
+};
+
+export type Currency = {
+  __typename?: 'Currency';
+  code: Scalars['ID']['output'];
+  symbol: Scalars['String']['output'];
+  symbol_native: Scalars['String']['output'];
+  name: Scalars['String']['output'];
+  decimal_digits: Scalars['Int']['output'];
+  rounding: Scalars['Float']['output'];
+  raw_rounding: Scalars['JSON']['output'];
   created_at: Scalars['DateTime']['output'];
   updated_at: Scalars['DateTime']['output'];
   deleted_at: Maybe<Scalars['DateTime']['output']>;
@@ -2526,6 +2526,8 @@ declare module '@medusajs/framework/types' {
     promotion_rules: PromotionRule
     promotion_rule_value: PromotionRuleValue
     promotion_rule_values: PromotionRuleValue
+    sales_channel: SalesChannel
+    sales_channels: SalesChannel
     customer_address: CustomerAddress
     customer_addresses: CustomerAddress
     customer_group_customer: CustomerGroupCustomer
@@ -2534,8 +2536,6 @@ declare module '@medusajs/framework/types' {
     customer_groups: CustomerGroup
     customer: Customer
     customers: Customer
-    sales_channel: SalesChannel
-    sales_channels: SalesChannel
     cart: Cart
     carts: Cart
     credit_line: CreditLine
@@ -2574,8 +2574,6 @@ declare module '@medusajs/framework/types' {
     tax_rate_rules: TaxRateRule
     tax_provider: TaxProvider
     tax_providers: TaxProvider
-    currency: Currency
-    currencies: Currency
     payment_method: any
     payment_methods: any
     account_holder: AccountHolder
@@ -2594,6 +2592,8 @@ declare module '@medusajs/framework/types' {
     refund_reasons: RefundReason
     refund: Refund
     refunds: Refund
+    currency: Currency
+    currencies: Currency
     order: Order
     orders: Order
     order_address: OrderAddress

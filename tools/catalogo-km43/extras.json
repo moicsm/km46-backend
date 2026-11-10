@@ -1,0 +1,197 @@
+{
+  "_nota": "Productos que están en las carpetas de mockups pero NO en el Excel. Rutas relativas a la carpeta MOCKUPS MERCH. 'datos_de' = nombre exacto del producto del Excel del que se copian precio, tallas, género, textos, categoría y tipo. Sin 'datos_de' el producto se sube sin precio, sin categoría y sin textos (se completan después en el Admin). El primer archivo de cada color es la foto principal. Diseños agrupados revisando cada imagen: en Valencia Run Club, 'CORRER PARA CONECTAR VERDE' es el estampado Cantina y 'CORRER PARA CONECTAR BIARRITZ' es el estampado Orquídea; en Caracas en el 26, IMG_7908/7909 son Amanecer e IMG_7910/7911 son Crepúsculo. No se suben PATTERNS (texturas) ni las carpetas ORIGINALES (versiones anteriores de productos ya cargados).",
+  "productos": [
+    {
+      "title": "Néstor Franelilla",
+      "collection": "CARACAS EN EL 26",
+      "datos_de": "Néstor Franelilla",
+      "colors": {
+        "Amanecer": [
+          "COLECCIONES PASADAS/NESTOR FRANELILLA/CARACAS EN EL 26/AMANECER FRANELILLA 2.PNG",
+          "COLECCIONES PASADAS/NESTOR FRANELILLA/CARACAS EN EL 26/AMANECER FRANELILLA3 .png"
+        ],
+        "Caracas en el 26": [
+          "COLECCIONES PASADAS/NESTOR FRANELILLA/CARACAS EN EL 26/CARACAS EN EL 26 FRANELILLA1.PNG",
+          "COLECCIONES PASADAS/NESTOR FRANELILLA/CARACAS EN EL 26/CARACAS EN EL 26 FRANELILLA2.PNG",
+          "COLECCIONES PASADAS/NESTOR FRANELILLA/CARACAS EN EL 26/CARACAS EN EL 26 FRANELILLA3.png"
+        ],
+        "Crepúsculo": [
+          "COLECCIONES PASADAS/NESTOR FRANELILLA/CARACAS EN EL 26/CREPUSCULO FRANELILLA 1.PNG",
+          "COLECCIONES PASADAS/NESTOR FRANELILLA/CARACAS EN EL 26/CREPUSCULO FRANELILLA 2.PNG",
+          "COLECCIONES PASADAS/NESTOR FRANELILLA/CARACAS EN EL 26/CREPUSCULO FRANELILLA 4.PNG"
+        ]
+      }
+    },
+    {
+      "title": "Néstor Franelilla",
+      "collection": "VALENCIA RUN CLUB",
+      "datos_de": "Néstor Franelilla",
+      "colors": {
+        "Cantina": [
+          "COLECCIONES PASADAS/NESTOR FRANELILLA/VALENCIA RUN CLUB/CANTINA FRANELILLA 1.png"
+        ]
+      }
+    },
+    {
+      "title": "Mana Tank Top",
+      "collection": "CARACAS EN EL 26",
+      "datos_de": "Mana Tank Top",
+      "colors": {
+        "Amanecer": [
+          "COLECCIONES PASADAS/MANA TANK TOP/CARACAS EN EL 26/AMANECER 1.PNG",
+          "COLECCIONES PASADAS/MANA TANK TOP/CARACAS EN EL 26/AMANECER2 .png",
+          "COLECCIONES PASADAS/MANA TANK TOP/CARACAS EN EL 26/AMANECER 3.png"
+        ],
+        "Caracas en el 26": [
+          "COLECCIONES PASADAS/MANA TANK TOP/CARACAS EN EL 26/CARACAS EN EL 261.PNG",
+          "COLECCIONES PASADAS/MANA TANK TOP/CARACAS EN EL 26/CARACAS EN EL 262.PNG",
+          "COLECCIONES PASADAS/MANA TANK TOP/CARACAS EN EL 26/CARACAS EN EL 26 MANA TANKTOP3.png"
+        ],
+        "Crepúsculo": [
+          "COLECCIONES PASADAS/MANA TANK TOP/CARACAS EN EL 26/CREPUSCULO1.PNG",
+          "COLECCIONES PASADAS/MANA TANK TOP/CARACAS EN EL 26/CREPUSCULO2.PNG",
+          "COLECCIONES PASADAS/MANA TANK TOP/CARACAS EN EL 26/CREPUSCULO3.PNG"
+        ]
+      }
+    },
+    {
+      "title": "Mana Tank Top",
+      "collection": "VALENCIA RUN CLUB",
+      "datos_de": "Mana Tank Top",
+      "colors": {
+        "Cantina": [
+          "COLECCIONES PASADAS/MANA TANK TOP/VALENCIA RUN CLUB/CANTINA TANK TOP1.png",
+          "COLECCIONES PASADAS/MANA TANK TOP/VALENCIA RUN CLUB/CANTINA TANK TOP2.png",
+          "COLECCIONES PASADAS/MANA TANK TOP/VALENCIA RUN CLUB/CANTINA TANK TOP3.png"
+        ],
+        "Orquídea": [
+          "COLECCIONES PASADAS/MANA TANK TOP/VALENCIA RUN CLUB/ORQUIDEA TANK TOP1.png",
+          "COLECCIONES PASADAS/MANA TANK TOP/VALENCIA RUN CLUB/ORQUIDEA TANK TOP2.png",
+          "COLECCIONES PASADAS/MANA TANK TOP/VALENCIA RUN CLUB/ORQUIDEA TANK TOP3.png"
+        ]
+      }
+    },
+    {
+      "title": "Ander Boxy Top",
+      "collection": "VALENCIA RUN CLUB",
+      "datos_de": "Ander Boxy Top",
+      "colors": {
+        "Cantina": [
+          "COLECCIONES PASADAS/ANDER BOXY TOP/VALENCIA RUN CLUB/CANTINA BOXY1.png",
+          "COLECCIONES PASADAS/ANDER BOXY TOP/VALENCIA RUN CLUB/CANTINA BOXY2.png",
+          "COLECCIONES PASADAS/ANDER BOXY TOP/VALENCIA RUN CLUB/CANTINA BOXY3.png"
+        ],
+        "Orquídea": [
+          "COLECCIONES PASADAS/ANDER BOXY TOP/VALENCIA RUN CLUB/ORQUIDEA BOXY1.png",
+          "COLECCIONES PASADAS/ANDER BOXY TOP/VALENCIA RUN CLUB/ORQUIDEA BOXY2.png",
+          "COLECCIONES PASADAS/ANDER BOXY TOP/VALENCIA RUN CLUB/ORQUIDEA BOXY3.png"
+        ]
+      }
+    },
+    {
+      "title": "Andrés T-shirt",
+      "collection": "CARACAS EN EL 26",
+      "datos_de": "Andrés T-shirt",
+      "colors": {
+        "Amanecer": [
+          "COLECCIONES PASADAS/ANDRES TSHIRT/CARACAS EN EL 26/IMG_7908.PNG",
+          "COLECCIONES PASADAS/ANDRES TSHIRT/CARACAS EN EL 26/IMG_7909.PNG",
+          "COLECCIONES PASADAS/ANDRES TSHIRT/CARACAS EN EL 26/AMANECER TSHIRT3.png"
+        ],
+        "Caracas en el 26 Dinámica": [
+          "COLECCIONES PASADAS/ANDRES TSHIRT/CARACAS EN EL 26/CARACAS EN EL 26 DINAMICA 1.PNG",
+          "COLECCIONES PASADAS/ANDRES TSHIRT/CARACAS EN EL 26/CARACAS EN EL 26 DINAMICA 2.PNG",
+          "COLECCIONES PASADAS/ANDRES TSHIRT/CARACAS EN EL 26/CARACAS EN EL 26 DINAMICA 3.png"
+        ],
+        "Crepúsculo": [
+          "COLECCIONES PASADAS/ANDRES TSHIRT/CARACAS EN EL 26/IMG_7910.PNG",
+          "COLECCIONES PASADAS/ANDRES TSHIRT/CARACAS EN EL 26/IMG_7911.PNG",
+          "COLECCIONES PASADAS/ANDRES TSHIRT/CARACAS EN EL 26/CREPUSCULO TSHIRT3 .png"
+        ]
+      }
+    },
+    {
+      "title": "Andrés T-shirt",
+      "collection": "VALENCIA RUN CLUB",
+      "datos_de": "Andrés T-shirt",
+      "colors": {
+        "Cantina": [
+          "COLECCIONES PASADAS/ANDRES TSHIRT/VALENCIA RUN CLUB/CORRER PARA CONECTAR VERDE DELANTERO FRANELA.png",
+          "COLECCIONES PASADAS/ANDRES TSHIRT/VALENCIA RUN CLUB/CORRER PARA CONECTAR VERDE ESPALDA FRANELA.png",
+          "COLECCIONES PASADAS/ANDRES TSHIRT/VALENCIA RUN CLUB/CANTINA TSHIRT3 .png"
+        ],
+        "Orquídea": [
+          "COLECCIONES PASADAS/ANDRES TSHIRT/VALENCIA RUN CLUB/CORRER PARA CONECTAR BIARRITZ FRENTE FRANELA.png",
+          "COLECCIONES PASADAS/ANDRES TSHIRT/VALENCIA RUN CLUB/CORRER PARA CONECTAR BIARRITZ ESPALDA FRANELA.png",
+          "COLECCIONES PASADAS/ANDRES TSHIRT/VALENCIA RUN CLUB/ORQUIDEA TSHIRT3.png"
+        ]
+      }
+    },
+    {
+      "title": "Caracas en el 26",
+      "collection": "CARACAS EN EL 26",
+      "colors": {
+        "Blanco": [
+          "COLECCIONES PASADAS/POST RUNNING/CARACAS EN EL 26/CARACAS EN EL 26 BLANCO1.png",
+          "COLECCIONES PASADAS/POST RUNNING/CARACAS EN EL 26/CARACAS EN EL 26 BLANCO2.png",
+          "COLECCIONES PASADAS/POST RUNNING/CARACAS EN EL 26/CARACAS EN EL 26 BLANCO3.png"
+        ],
+        "Negro": [
+          "COLECCIONES PASADAS/POST RUNNING/CARACAS EN EL 26/CARACAS EN EL 26 NEGRA1.PNG",
+          "COLECCIONES PASADAS/POST RUNNING/CARACAS EN EL 26/CARACAS EN EL 26 NEGRA2.PNG",
+          "COLECCIONES PASADAS/POST RUNNING/CARACAS EN EL 26/CARACAS EN EL 26 NEGRA3.png"
+        ]
+      }
+    },
+    {
+      "title": "Poder de correr",
+      "collection": "CARACAS EN EL 26",
+      "colors": {
+        "Único": [
+          "COLECCIONES PASADAS/POST RUNNING/CARACAS EN EL 26/PODER DE CORRER 1.PNG",
+          "COLECCIONES PASADAS/POST RUNNING/CARACAS EN EL 26/PODER DE CORRER 2.PNG",
+          "COLECCIONES PASADAS/POST RUNNING/CARACAS EN EL 26/PODER DE CORRER 3.PNG"
+        ]
+      }
+    },
+    {
+      "title": "Valencia Run Club",
+      "collection": "VALENCIA RUN CLUB",
+      "colors": {
+        "Negro": [
+          "COLECCIONES PASADAS/POST RUNNING/VALENCIA RUN CLUB/VALENCIA RUN CLUB NEGRAA1.png",
+          "COLECCIONES PASADAS/POST RUNNING/VALENCIA RUN CLUB/VALENCIA RUN CLUB NEGRAA2.png",
+          "COLECCIONES PASADAS/POST RUNNING/VALENCIA RUN CLUB/VALENCIA RUN CLUB NEGRAA3.png",
+          "COLECCIONES PASADAS/POST RUNNING/VALENCIA RUN CLUB/VALENCIA RUN CLUB NEGRAA4.png"
+        ],
+        "Vinotinto": [
+          "COLECCIONES PASADAS/POST RUNNING/VALENCIA RUN CLUB/VALENCIA RUN CLUB VINOTINTO1.png",
+          "COLECCIONES PASADAS/POST RUNNING/VALENCIA RUN CLUB/VALENCIA RUN CLUB VINOTINTO2.png",
+          "COLECCIONES PASADAS/POST RUNNING/VALENCIA RUN CLUB/VALENCIA RUN CLUB VINOTINTO3.png",
+          "COLECCIONES PASADAS/POST RUNNING/VALENCIA RUN CLUB/VALENCIA RUN CLUB VINOTINTO4.png"
+        ]
+      }
+    },
+    {
+      "title": "Gorra Blanca KM43 CAF 2026",
+      "collection": null,
+      "colors": {
+        "Blanco": ["COLECCIONES PASADAS/ACCESORIOS/GORRA BLANCA KM43 CAF 2026.png"]
+      }
+    },
+    {
+      "title": "Gorra Negra Líneas KM43",
+      "collection": null,
+      "colors": {
+        "Negro": ["COLECCIONES PASADAS/ACCESORIOS/GORRA NEGRA LINEAS KM43.png"]
+      }
+    },
+    {
+      "title": "Gorra Verde Cuadros KM43",
+      "collection": null,
+      "colors": {
+        "Verde": ["COLECCIONES PASADAS/ACCESORIOS/GORRA VERDE CUADROS KM43.png"]
+      }
+    }
+  ]
+}

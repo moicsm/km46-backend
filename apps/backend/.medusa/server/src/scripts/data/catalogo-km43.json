@@ -1,0 +1,3595 @@
+{
+    "fuente": "KM43 - Productos Web.xlsx + extras.json",
+    "generado": "2026-11-09",
+    "stock_por_variante": 24,
+    "tipo": "Merch",
+    "colecciones": [
+        {
+            "title": "TODAS LAS CARACAS",
+            "handle": "todas-las-caracas"
+        },
+        {
+            "title": "ENTRE MONTAÑAS",
+            "handle": "entre-montanas"
+        },
+        {
+            "title": "GENERAL",
+            "handle": "general"
+        },
+        {
+            "title": "CARACAS EN EL 26",
+            "handle": "caracas-en-el-26"
+        },
+        {
+            "title": "VALENCIA RUN CLUB",
+            "handle": "valencia-run-club"
+        }
+    ],
+    "productos": [
+        {
+            "handle": "nestor-franelilla-todas-las-caracas",
+            "title": "Néstor Franelilla",
+            "collection": "TODAS LAS CARACAS",
+            "category": "ROPA",
+            "tag": "RUNNING",
+            "price": 25,
+            "description": "Diseñada para acompañarte cuando toca moverse. No promete hacerte correr más rápido. Solo busca que nada en la ropa te distraiga de hacerlo. Ligera, fresca y de secado rápido, hecha para entrenamientos diarios, fondos largos y días de carrera.",
+            "details": "Peso aproximado: 52 g (talla S)\nComposición: 92% poliéster, 8% spandex\nTela dinámica: ligera, fresca y de secado rápido\nCorte diseñado para acompañar el movimiento sin limitarlo\nPerfecta para entrenamientos diarios y días de carrera",
+            "care": "Aguanta pela. Apta para lavadora y secadora sin comprometer su desempeño.",
+            "options": {
+                "Color": [
+                    "Asfalto",
+                    "Ávila",
+                    "Tinto"
+                ],
+                "Género": [
+                    "Hombre"
+                ],
+                "Talla": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            "colors": {
+                "Asfalto": "#302d2a",
+                "Ávila": "#7c7111",
+                "Tinto": "#4a1e25"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Asfalto",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/nestor-franelilla/asfalto-1.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/asfalto-2.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/asfalto-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Asfalto",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/nestor-franelilla/asfalto-1.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/asfalto-2.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/asfalto-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Asfalto",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/nestor-franelilla/asfalto-1.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/asfalto-2.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/asfalto-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Asfalto",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/nestor-franelilla/asfalto-1.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/asfalto-2.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/asfalto-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Ávila",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/nestor-franelilla/avila-1.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/avila-2.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/avila-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Ávila",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/nestor-franelilla/avila-1.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/avila-2.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/avila-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Ávila",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/nestor-franelilla/avila-1.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/avila-2.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/avila-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Ávila",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/nestor-franelilla/avila-1.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/avila-2.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/avila-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Tinto",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/nestor-franelilla/tinto-1.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/tinto-2.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/tinto-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Tinto",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/nestor-franelilla/tinto-1.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/tinto-2.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/tinto-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Tinto",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/nestor-franelilla/tinto-1.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/tinto-2.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/tinto-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Tinto",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/nestor-franelilla/tinto-1.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/tinto-2.webp",
+                        "/productos/todas-las-caracas/nestor-franelilla/tinto-3.webp"
+                    ]
+                }
+            ],
+            "origen": "excel",
+            "images": [
+                "/productos/todas-las-caracas/nestor-franelilla/asfalto-1.webp",
+                "/productos/todas-las-caracas/nestor-franelilla/asfalto-2.webp",
+                "/productos/todas-las-caracas/nestor-franelilla/asfalto-3.webp",
+                "/productos/todas-las-caracas/nestor-franelilla/avila-1.webp",
+                "/productos/todas-las-caracas/nestor-franelilla/avila-2.webp",
+                "/productos/todas-las-caracas/nestor-franelilla/avila-3.webp",
+                "/productos/todas-las-caracas/nestor-franelilla/tinto-1.webp",
+                "/productos/todas-las-caracas/nestor-franelilla/tinto-2.webp",
+                "/productos/todas-las-caracas/nestor-franelilla/tinto-3.webp"
+            ],
+            "thumbnail": "/productos/todas-las-caracas/nestor-franelilla/asfalto-1.webp"
+        },
+        {
+            "handle": "ander-boxy-top-todas-las-caracas",
+            "title": "Ander Boxy Top",
+            "collection": "TODAS LAS CARACAS",
+            "category": "ROPA",
+            "tag": "RUNNING",
+            "price": 25,
+            "description": "Diseñada para acompañarte cuando toca moverse. No promete hacerte correr más rápido. Solo busca que nada en la ropa te distraiga de hacerlo. Ligera, fresca y de secado rápido, hecha para entrenamientos diarios, fondos largos y días de carrera.",
+            "details": "Peso aproximado: 52 g (talla S)\nComposición: 92% poliéster, 8% spandex\nTela dinámica: ligera, fresca y de secado rápido\nCorte diseñado para acompañar el movimiento sin limitarlo\nPerfecta para entrenamientos diarios y días de carrera",
+            "care": "Aguanta pela. Apta para lavadora y secadora sin comprometer su desempeño.",
+            "options": {
+                "Color": [
+                    "Asfalto",
+                    "Ávila",
+                    "Tinto"
+                ],
+                "Género": [
+                    "Mujer"
+                ],
+                "Talla": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            "colors": {
+                "Asfalto": "#32302d",
+                "Ávila": "#504526",
+                "Tinto": "#432228"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Asfalto",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/ander-boxy-top/asfalto-1.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/asfalto-2.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/asfalto-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Asfalto",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/ander-boxy-top/asfalto-1.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/asfalto-2.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/asfalto-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Asfalto",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/ander-boxy-top/asfalto-1.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/asfalto-2.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/asfalto-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Asfalto",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/ander-boxy-top/asfalto-1.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/asfalto-2.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/asfalto-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Ávila",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/ander-boxy-top/avila-1.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/avila-2.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/avila-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Ávila",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/ander-boxy-top/avila-1.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/avila-2.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/avila-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Ávila",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/ander-boxy-top/avila-1.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/avila-2.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/avila-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Ávila",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/ander-boxy-top/avila-1.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/avila-2.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/avila-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Tinto",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/ander-boxy-top/tinto-1.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/tinto-2.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/tinto-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Tinto",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/ander-boxy-top/tinto-1.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/tinto-2.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/tinto-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Tinto",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/ander-boxy-top/tinto-1.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/tinto-2.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/tinto-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Tinto",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/ander-boxy-top/tinto-1.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/tinto-2.webp",
+                        "/productos/todas-las-caracas/ander-boxy-top/tinto-3.webp"
+                    ]
+                }
+            ],
+            "origen": "excel",
+            "images": [
+                "/productos/todas-las-caracas/ander-boxy-top/asfalto-1.webp",
+                "/productos/todas-las-caracas/ander-boxy-top/asfalto-2.webp",
+                "/productos/todas-las-caracas/ander-boxy-top/asfalto-3.webp",
+                "/productos/todas-las-caracas/ander-boxy-top/avila-1.webp",
+                "/productos/todas-las-caracas/ander-boxy-top/avila-2.webp",
+                "/productos/todas-las-caracas/ander-boxy-top/avila-3.webp",
+                "/productos/todas-las-caracas/ander-boxy-top/tinto-1.webp",
+                "/productos/todas-las-caracas/ander-boxy-top/tinto-2.webp",
+                "/productos/todas-las-caracas/ander-boxy-top/tinto-3.webp"
+            ],
+            "thumbnail": "/productos/todas-las-caracas/ander-boxy-top/asfalto-1.webp"
+        },
+        {
+            "handle": "mana-tank-top-todas-las-caracas",
+            "title": "Mana Tank Top",
+            "collection": "TODAS LAS CARACAS",
+            "category": "ROPA",
+            "tag": "RUNNING",
+            "price": 25,
+            "description": "Diseñada para acompañarte cuando toca moverse. No promete hacerte correr más rápido. Solo busca que nada en la ropa te distraiga de hacerlo. Ligera, fresca y de secado rápido, hecha para entrenamientos diarios, fondos largos y días de carrera.",
+            "details": "Peso aproximado: 52 g (talla S)\nComposición: 92% poliéster, 8% spandex\nTela dinámica: ligera, fresca y de secado rápido\nCorte diseñado para acompañar el movimiento sin limitarlo\nPerfecta para entrenamientos diarios y días de carrera",
+            "care": "Aguanta pela. Apta para lavadora y secadora sin comprometer su desempeño.",
+            "options": {
+                "Color": [
+                    "Asfalto",
+                    "Ávila",
+                    "Tinto"
+                ],
+                "Género": [
+                    "Mujer"
+                ],
+                "Talla": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            "colors": {
+                "Asfalto": "#5d5046",
+                "Ávila": "#877e2c",
+                "Tinto": "#34181c"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Asfalto",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/mana-tank-top/asfalto-1.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/asfalto-2.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/asfalto-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Asfalto",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/mana-tank-top/asfalto-1.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/asfalto-2.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/asfalto-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Asfalto",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/mana-tank-top/asfalto-1.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/asfalto-2.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/asfalto-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Asfalto",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/mana-tank-top/asfalto-1.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/asfalto-2.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/asfalto-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Ávila",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/mana-tank-top/avila-1.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/avila-2.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/avila-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Ávila",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/mana-tank-top/avila-1.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/avila-2.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/avila-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Ávila",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/mana-tank-top/avila-1.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/avila-2.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/avila-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Ávila",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/mana-tank-top/avila-1.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/avila-2.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/avila-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Tinto",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/mana-tank-top/tinto-1.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/tinto-2.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/tinto-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Tinto",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/mana-tank-top/tinto-1.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/tinto-2.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/tinto-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Tinto",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/mana-tank-top/tinto-1.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/tinto-2.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/tinto-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Tinto",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/mana-tank-top/tinto-1.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/tinto-2.webp",
+                        "/productos/todas-las-caracas/mana-tank-top/tinto-3.webp"
+                    ]
+                }
+            ],
+            "origen": "excel",
+            "images": [
+                "/productos/todas-las-caracas/mana-tank-top/asfalto-1.webp",
+                "/productos/todas-las-caracas/mana-tank-top/asfalto-2.webp",
+                "/productos/todas-las-caracas/mana-tank-top/asfalto-3.webp",
+                "/productos/todas-las-caracas/mana-tank-top/avila-1.webp",
+                "/productos/todas-las-caracas/mana-tank-top/avila-2.webp",
+                "/productos/todas-las-caracas/mana-tank-top/avila-3.webp",
+                "/productos/todas-las-caracas/mana-tank-top/tinto-1.webp",
+                "/productos/todas-las-caracas/mana-tank-top/tinto-2.webp",
+                "/productos/todas-las-caracas/mana-tank-top/tinto-3.webp"
+            ],
+            "thumbnail": "/productos/todas-las-caracas/mana-tank-top/asfalto-1.webp"
+        },
+        {
+            "handle": "mesh-top-todas-las-caracas",
+            "title": "Mesh Top",
+            "collection": "TODAS LAS CARACAS",
+            "category": "ROPA",
+            "tag": "RUNNING",
+            "price": 25,
+            "description": "La probamos con Todas Las Caracas y se nos fue de las manos: todo el mundo la quería. Es una malla que se te pega al cuerpo, respira con cada kilómetro y se seca en nada, aunque te eches el vaso de agua encima. No la sientes cuando corres. Y sí, también es la más bonita para el café de después.",
+            "details": "Tejido mesh (malla) transpirable\nLigera y de secado rápido\nIdeal para entrenamientos con calor y días de carrera",
+            "care": "Aguanta pela. Apta para lavadora y secadora sin comprometer su desempeño.",
+            "options": {
+                "Color": [
+                    "Asfalto",
+                    "Tinto"
+                ],
+                "Género": [
+                    "Mujer"
+                ],
+                "Talla": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            "colors": {
+                "Asfalto": "#504842",
+                "Tinto": "#6a4943"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Asfalto",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/mesh-top/asfalto-1.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Asfalto",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/mesh-top/asfalto-1.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Asfalto",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/mesh-top/asfalto-1.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Asfalto",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/mesh-top/asfalto-1.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Tinto",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/mesh-top/tinto-1.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Tinto",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/mesh-top/tinto-1.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Tinto",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/mesh-top/tinto-1.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Tinto",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/mesh-top/tinto-1.webp"
+                    ]
+                }
+            ],
+            "origen": "excel",
+            "images": [
+                "/productos/todas-las-caracas/mesh-top/asfalto-1.webp",
+                "/productos/todas-las-caracas/mesh-top/tinto-1.webp"
+            ],
+            "thumbnail": "/productos/todas-las-caracas/mesh-top/asfalto-1.webp"
+        },
+        {
+            "handle": "andres-t-shirt-regular",
+            "title": "Andrés T-shirt (regular)",
+            "collection": "TODAS LAS CARACAS",
+            "category": "ROPA",
+            "tag": "POST-RUNNING",
+            "price": 30,
+            "description": "Diseñada para cuando el entrenamiento termina. Una camiseta de algodón de estructura firme, pensada para acompañarte después de correr y en cualquier momento del día.",
+            "details": "Composición: 100% algodón heavyweight\nCorte regular: el fit clásico de siempre\nTejido de alto gramaje, firme sin sentirse pesado",
+            "care": "Lavar con agua fría. No usar secadora.",
+            "options": {
+                "Color": [
+                    "Amarillo",
+                    "Negro",
+                    "Marrón chocolate"
+                ],
+                "Género": [
+                    "Hombre"
+                ],
+                "Talla": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            "colors": {
+                "Amarillo": "#b85a13",
+                "Negro": "#1a1a1a",
+                "Marrón chocolate": "#37261c"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Amarillo",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/amarillo-1.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/amarillo-2.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/amarillo-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Amarillo",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/amarillo-1.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/amarillo-2.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/amarillo-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Amarillo",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/amarillo-1.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/amarillo-2.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/amarillo-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Amarillo",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/amarillo-1.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/amarillo-2.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/amarillo-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Negro",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/negro-1.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/negro-2.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/negro-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Negro",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/negro-1.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/negro-2.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/negro-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Negro",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/negro-1.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/negro-2.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/negro-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Negro",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/negro-1.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/negro-2.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/negro-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Marrón chocolate",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/marron-chocolate-1.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/marron-chocolate-2.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/marron-chocolate-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Marrón chocolate",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/marron-chocolate-1.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/marron-chocolate-2.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/marron-chocolate-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Marrón chocolate",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/marron-chocolate-1.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/marron-chocolate-2.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/marron-chocolate-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Marrón chocolate",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/marron-chocolate-1.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/marron-chocolate-2.webp",
+                        "/productos/todas-las-caracas/andres-t-shirt-regular/marron-chocolate-3.webp"
+                    ]
+                }
+            ],
+            "origen": "excel",
+            "images": [
+                "/productos/todas-las-caracas/andres-t-shirt-regular/amarillo-1.webp",
+                "/productos/todas-las-caracas/andres-t-shirt-regular/amarillo-2.webp",
+                "/productos/todas-las-caracas/andres-t-shirt-regular/amarillo-3.webp",
+                "/productos/todas-las-caracas/andres-t-shirt-regular/negro-1.webp",
+                "/productos/todas-las-caracas/andres-t-shirt-regular/negro-2.webp",
+                "/productos/todas-las-caracas/andres-t-shirt-regular/negro-3.webp",
+                "/productos/todas-las-caracas/andres-t-shirt-regular/marron-chocolate-1.webp",
+                "/productos/todas-las-caracas/andres-t-shirt-regular/marron-chocolate-2.webp",
+                "/productos/todas-las-caracas/andres-t-shirt-regular/marron-chocolate-3.webp"
+            ],
+            "thumbnail": "/productos/todas-las-caracas/andres-t-shirt-regular/amarillo-1.webp"
+        },
+        {
+            "handle": "t-shirt-boxy",
+            "title": "T-shirt Boxy",
+            "collection": "TODAS LAS CARACAS",
+            "category": "ROPA",
+            "tag": "POST-RUNNING",
+            "price": 30,
+            "description": "Diseñada para cuando el entrenamiento termina. Una camiseta de algodón de estructura firme, pensada para acompañarte después de correr y en cualquier momento del día.",
+            "details": "Composición: 100% algodón heavyweight\nCorte boxy: silueta relajada con estructura y caída definida\nTejido de alto gramaje, firme sin sentirse pesado",
+            "care": "Lavar con agua fría. No usar secadora.",
+            "options": {
+                "Color": [
+                    "Amarillo",
+                    "Negro",
+                    "Marrón chocolate"
+                ],
+                "Género": [
+                    "Hombre",
+                    "Mujer"
+                ],
+                "Talla": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            "colors": {
+                "Amarillo": "#e7a739",
+                "Negro": "#212121",
+                "Marrón chocolate": "#312923"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Amarillo",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/t-shirt-boxy/amarillo-1.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/amarillo-2.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/amarillo-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Amarillo",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/t-shirt-boxy/amarillo-1.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/amarillo-2.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/amarillo-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Amarillo",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/t-shirt-boxy/amarillo-1.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/amarillo-2.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/amarillo-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Amarillo",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/t-shirt-boxy/amarillo-1.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/amarillo-2.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/amarillo-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Negro",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/t-shirt-boxy/negro-1.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/negro-2.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/negro-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Negro",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/t-shirt-boxy/negro-1.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/negro-2.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/negro-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Negro",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/t-shirt-boxy/negro-1.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/negro-2.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/negro-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Negro",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/t-shirt-boxy/negro-1.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/negro-2.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/negro-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Marrón chocolate",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/t-shirt-boxy/marron-chocolate-1.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/marron-chocolate-2.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/marron-chocolate-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Marrón chocolate",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/t-shirt-boxy/marron-chocolate-1.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/marron-chocolate-2.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/marron-chocolate-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Marrón chocolate",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/t-shirt-boxy/marron-chocolate-1.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/marron-chocolate-2.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/marron-chocolate-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Marrón chocolate",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/t-shirt-boxy/marron-chocolate-1.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/marron-chocolate-2.webp",
+                        "/productos/todas-las-caracas/t-shirt-boxy/marron-chocolate-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Amarillo",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": []
+                },
+                {
+                    "options": {
+                        "Color": "Amarillo",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": []
+                },
+                {
+                    "options": {
+                        "Color": "Amarillo",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": []
+                },
+                {
+                    "options": {
+                        "Color": "Amarillo",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": []
+                },
+                {
+                    "options": {
+                        "Color": "Negro",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": []
+                },
+                {
+                    "options": {
+                        "Color": "Negro",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": []
+                },
+                {
+                    "options": {
+                        "Color": "Negro",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": []
+                },
+                {
+                    "options": {
+                        "Color": "Negro",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": []
+                },
+                {
+                    "options": {
+                        "Color": "Marrón chocolate",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": []
+                },
+                {
+                    "options": {
+                        "Color": "Marrón chocolate",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": []
+                },
+                {
+                    "options": {
+                        "Color": "Marrón chocolate",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": []
+                },
+                {
+                    "options": {
+                        "Color": "Marrón chocolate",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": []
+                }
+            ],
+            "origen": "excel",
+            "images": [
+                "/productos/todas-las-caracas/t-shirt-boxy/amarillo-1.webp",
+                "/productos/todas-las-caracas/t-shirt-boxy/amarillo-2.webp",
+                "/productos/todas-las-caracas/t-shirt-boxy/amarillo-3.webp",
+                "/productos/todas-las-caracas/t-shirt-boxy/negro-1.webp",
+                "/productos/todas-las-caracas/t-shirt-boxy/negro-2.webp",
+                "/productos/todas-las-caracas/t-shirt-boxy/negro-3.webp",
+                "/productos/todas-las-caracas/t-shirt-boxy/marron-chocolate-1.webp",
+                "/productos/todas-las-caracas/t-shirt-boxy/marron-chocolate-2.webp",
+                "/productos/todas-las-caracas/t-shirt-boxy/marron-chocolate-3.webp"
+            ],
+            "thumbnail": "/productos/todas-las-caracas/t-shirt-boxy/amarillo-1.webp"
+        },
+        {
+            "handle": "bandana-panoleta",
+            "title": "Bandana (pañoleta)",
+            "collection": "TODAS LAS CARACAS",
+            "category": "ACCESORIOS",
+            "tag": null,
+            "price": 12,
+            "description": "Sudor fuera de la cara, pelo en su sitio y un toque de Caracas en cada salida. Úsala en la cabeza, en el cuello o en la muñeca.",
+            "details": "Paño cuadrado de tela tipo seda: suave, liviana y con un brillo sutil\nAbsorbe el sudor y te mantiene el pelo fuera de la cara en los fondos largos\nTalla única\nCon los patterns de Todas Las Caracas\nEn la cabeza, en el cuello o en la muñeca: tú decides",
+            "care": "Agua fría, con colores parecidos y al tendedero. Se seca antes de que termines de estirar.",
+            "options": {
+                "Color": [
+                    "Asfalto",
+                    "Ávila",
+                    "Tinto"
+                ],
+                "Género": [
+                    "Unisex"
+                ],
+                "Talla": [
+                    "Talla única"
+                ]
+            },
+            "colors": {
+                "Asfalto": "#070707",
+                "Ávila": "#22210e",
+                "Tinto": "#0e0a0d"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Asfalto",
+                        "Género": "Unisex",
+                        "Talla": "Talla única"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/bandana-panoleta/asfalto-1.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Ávila",
+                        "Género": "Unisex",
+                        "Talla": "Talla única"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/bandana-panoleta/avila-1.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Tinto",
+                        "Género": "Unisex",
+                        "Talla": "Talla única"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/todas-las-caracas/bandana-panoleta/tinto-1.webp"
+                    ]
+                }
+            ],
+            "origen": "excel",
+            "images": [
+                "/productos/todas-las-caracas/bandana-panoleta/asfalto-1.webp",
+                "/productos/todas-las-caracas/bandana-panoleta/avila-1.webp",
+                "/productos/todas-las-caracas/bandana-panoleta/tinto-1.webp"
+            ],
+            "thumbnail": "/productos/todas-las-caracas/bandana-panoleta/asfalto-1.webp"
+        },
+        {
+            "handle": "nestor-franelilla-entre-montanas",
+            "title": "Néstor Franelilla",
+            "collection": "ENTRE MONTAÑAS",
+            "category": "ROPA",
+            "tag": "RUNNING",
+            "price": 25,
+            "description": "Diseñada para acompañarte cuando toca moverse. No promete hacerte correr más rápido. Solo busca que nada en la ropa te distraiga de hacerlo. Ligera, fresca y de secado rápido, hecha para entrenamientos diarios, fondos largos y días de carrera.",
+            "details": "Peso aproximado: 52 g (talla S)\nComposición: 92% poliéster, 8% spandex\nTela dinámica: ligera, fresca y de secado rápido\nCorte diseñado para acompañar el movimiento sin limitarlo\nPerfecta para entrenamientos diarios y días de carrera",
+            "care": "Aguanta pela. Apta para lavadora y secadora sin comprometer su desempeño.",
+            "options": {
+                "Color": [
+                    "Morado-Verde",
+                    "Verde-Rosado"
+                ],
+                "Género": [
+                    "Hombre"
+                ],
+                "Talla": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            "colors": {
+                "Morado-Verde": "#2b182a",
+                "Verde-Rosado": "#443c0b"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Morado-Verde",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/nestor-franelilla/morado-verde-1.webp",
+                        "/productos/entre-montanas/nestor-franelilla/morado-verde-2.webp",
+                        "/productos/entre-montanas/nestor-franelilla/morado-verde-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Morado-Verde",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/nestor-franelilla/morado-verde-1.webp",
+                        "/productos/entre-montanas/nestor-franelilla/morado-verde-2.webp",
+                        "/productos/entre-montanas/nestor-franelilla/morado-verde-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Morado-Verde",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/nestor-franelilla/morado-verde-1.webp",
+                        "/productos/entre-montanas/nestor-franelilla/morado-verde-2.webp",
+                        "/productos/entre-montanas/nestor-franelilla/morado-verde-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Morado-Verde",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/nestor-franelilla/morado-verde-1.webp",
+                        "/productos/entre-montanas/nestor-franelilla/morado-verde-2.webp",
+                        "/productos/entre-montanas/nestor-franelilla/morado-verde-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Verde-Rosado",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/nestor-franelilla/verde-rosado-1.webp",
+                        "/productos/entre-montanas/nestor-franelilla/verde-rosado-2.webp",
+                        "/productos/entre-montanas/nestor-franelilla/verde-rosado-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Verde-Rosado",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/nestor-franelilla/verde-rosado-1.webp",
+                        "/productos/entre-montanas/nestor-franelilla/verde-rosado-2.webp",
+                        "/productos/entre-montanas/nestor-franelilla/verde-rosado-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Verde-Rosado",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/nestor-franelilla/verde-rosado-1.webp",
+                        "/productos/entre-montanas/nestor-franelilla/verde-rosado-2.webp",
+                        "/productos/entre-montanas/nestor-franelilla/verde-rosado-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Verde-Rosado",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/nestor-franelilla/verde-rosado-1.webp",
+                        "/productos/entre-montanas/nestor-franelilla/verde-rosado-2.webp",
+                        "/productos/entre-montanas/nestor-franelilla/verde-rosado-3.webp"
+                    ]
+                }
+            ],
+            "origen": "excel",
+            "images": [
+                "/productos/entre-montanas/nestor-franelilla/morado-verde-1.webp",
+                "/productos/entre-montanas/nestor-franelilla/morado-verde-2.webp",
+                "/productos/entre-montanas/nestor-franelilla/morado-verde-3.webp",
+                "/productos/entre-montanas/nestor-franelilla/verde-rosado-1.webp",
+                "/productos/entre-montanas/nestor-franelilla/verde-rosado-2.webp",
+                "/productos/entre-montanas/nestor-franelilla/verde-rosado-3.webp"
+            ],
+            "thumbnail": "/productos/entre-montanas/nestor-franelilla/morado-verde-1.webp"
+        },
+        {
+            "handle": "andres-t-shirt-entre-montanas",
+            "title": "Andrés T-shirt",
+            "collection": "ENTRE MONTAÑAS",
+            "category": "ROPA",
+            "tag": "RUNNING",
+            "price": 25,
+            "description": "Diseñada para acompañarte cuando toca moverse. No promete hacerte correr más rápido. Solo busca que nada en la ropa te distraiga de hacerlo. Ligera, fresca y de secado rápido, hecha para entrenamientos diarios, fondos largos y días de carrera.",
+            "details": "Peso aproximado: 52 g (talla S)\nComposición: 92% poliéster, 8% spandex\nTela dinámica: ligera, fresca y de secado rápido\nCorte diseñado para acompañar el movimiento sin limitarlo\nPerfecta para entrenamientos diarios y días de carrera",
+            "care": "Aguanta pela. Apta para lavadora y secadora sin comprometer su desempeño.",
+            "options": {
+                "Color": [
+                    "Morado-Verde",
+                    "Verde-Rosado"
+                ],
+                "Género": [
+                    "Hombre"
+                ],
+                "Talla": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            "colors": {
+                "Morado-Verde": "#3d2933",
+                "Verde-Rosado": "#2a2609"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Morado-Verde",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/andres-t-shirt/morado-verde-1.webp",
+                        "/productos/entre-montanas/andres-t-shirt/morado-verde-2.webp",
+                        "/productos/entre-montanas/andres-t-shirt/morado-verde-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Morado-Verde",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/andres-t-shirt/morado-verde-1.webp",
+                        "/productos/entre-montanas/andres-t-shirt/morado-verde-2.webp",
+                        "/productos/entre-montanas/andres-t-shirt/morado-verde-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Morado-Verde",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/andres-t-shirt/morado-verde-1.webp",
+                        "/productos/entre-montanas/andres-t-shirt/morado-verde-2.webp",
+                        "/productos/entre-montanas/andres-t-shirt/morado-verde-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Morado-Verde",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/andres-t-shirt/morado-verde-1.webp",
+                        "/productos/entre-montanas/andres-t-shirt/morado-verde-2.webp",
+                        "/productos/entre-montanas/andres-t-shirt/morado-verde-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Verde-Rosado",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/andres-t-shirt/verde-rosado-1.webp",
+                        "/productos/entre-montanas/andres-t-shirt/verde-rosado-2.webp",
+                        "/productos/entre-montanas/andres-t-shirt/verde-rosado-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Verde-Rosado",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/andres-t-shirt/verde-rosado-1.webp",
+                        "/productos/entre-montanas/andres-t-shirt/verde-rosado-2.webp",
+                        "/productos/entre-montanas/andres-t-shirt/verde-rosado-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Verde-Rosado",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/andres-t-shirt/verde-rosado-1.webp",
+                        "/productos/entre-montanas/andres-t-shirt/verde-rosado-2.webp",
+                        "/productos/entre-montanas/andres-t-shirt/verde-rosado-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Verde-Rosado",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/andres-t-shirt/verde-rosado-1.webp",
+                        "/productos/entre-montanas/andres-t-shirt/verde-rosado-2.webp",
+                        "/productos/entre-montanas/andres-t-shirt/verde-rosado-3.webp"
+                    ]
+                }
+            ],
+            "origen": "excel",
+            "images": [
+                "/productos/entre-montanas/andres-t-shirt/morado-verde-1.webp",
+                "/productos/entre-montanas/andres-t-shirt/morado-verde-2.webp",
+                "/productos/entre-montanas/andres-t-shirt/morado-verde-3.webp",
+                "/productos/entre-montanas/andres-t-shirt/verde-rosado-1.webp",
+                "/productos/entre-montanas/andres-t-shirt/verde-rosado-2.webp",
+                "/productos/entre-montanas/andres-t-shirt/verde-rosado-3.webp"
+            ],
+            "thumbnail": "/productos/entre-montanas/andres-t-shirt/morado-verde-1.webp"
+        },
+        {
+            "handle": "ander-boxy-top-entre-montanas",
+            "title": "Ander Boxy Top",
+            "collection": "ENTRE MONTAÑAS",
+            "category": "ROPA",
+            "tag": "RUNNING",
+            "price": 25,
+            "description": "Diseñada para acompañarte cuando toca moverse. No promete hacerte correr más rápido. Solo busca que nada en la ropa te distraiga de hacerlo. Ligera, fresca y de secado rápido, hecha para entrenamientos diarios, fondos largos y días de carrera.",
+            "details": "Peso aproximado: 52 g (talla S)\nComposición: 92% poliéster, 8% spandex\nTela dinámica: ligera, fresca y de secado rápido\nCorte diseñado para acompañar el movimiento sin limitarlo\nPerfecta para entrenamientos diarios y días de carrera",
+            "care": "Aguanta pela. Apta para lavadora y secadora sin comprometer su desempeño.",
+            "options": {
+                "Color": [
+                    "Morado-Verde",
+                    "Verde-Rosado"
+                ],
+                "Género": [
+                    "Mujer"
+                ],
+                "Talla": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            "colors": {
+                "Morado-Verde": "#351f2b",
+                "Verde-Rosado": "#413e12"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Morado-Verde",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/ander-boxy-top/morado-verde-1.webp",
+                        "/productos/entre-montanas/ander-boxy-top/morado-verde-2.webp",
+                        "/productos/entre-montanas/ander-boxy-top/morado-verde-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Morado-Verde",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/ander-boxy-top/morado-verde-1.webp",
+                        "/productos/entre-montanas/ander-boxy-top/morado-verde-2.webp",
+                        "/productos/entre-montanas/ander-boxy-top/morado-verde-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Morado-Verde",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/ander-boxy-top/morado-verde-1.webp",
+                        "/productos/entre-montanas/ander-boxy-top/morado-verde-2.webp",
+                        "/productos/entre-montanas/ander-boxy-top/morado-verde-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Morado-Verde",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/ander-boxy-top/morado-verde-1.webp",
+                        "/productos/entre-montanas/ander-boxy-top/morado-verde-2.webp",
+                        "/productos/entre-montanas/ander-boxy-top/morado-verde-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Verde-Rosado",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/ander-boxy-top/verde-rosado-1.webp",
+                        "/productos/entre-montanas/ander-boxy-top/verde-rosado-2.webp",
+                        "/productos/entre-montanas/ander-boxy-top/verde-rosado-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Verde-Rosado",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/ander-boxy-top/verde-rosado-1.webp",
+                        "/productos/entre-montanas/ander-boxy-top/verde-rosado-2.webp",
+                        "/productos/entre-montanas/ander-boxy-top/verde-rosado-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Verde-Rosado",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/ander-boxy-top/verde-rosado-1.webp",
+                        "/productos/entre-montanas/ander-boxy-top/verde-rosado-2.webp",
+                        "/productos/entre-montanas/ander-boxy-top/verde-rosado-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Verde-Rosado",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/ander-boxy-top/verde-rosado-1.webp",
+                        "/productos/entre-montanas/ander-boxy-top/verde-rosado-2.webp",
+                        "/productos/entre-montanas/ander-boxy-top/verde-rosado-3.webp"
+                    ]
+                }
+            ],
+            "origen": "excel",
+            "images": [
+                "/productos/entre-montanas/ander-boxy-top/morado-verde-1.webp",
+                "/productos/entre-montanas/ander-boxy-top/morado-verde-2.webp",
+                "/productos/entre-montanas/ander-boxy-top/morado-verde-3.webp",
+                "/productos/entre-montanas/ander-boxy-top/verde-rosado-1.webp",
+                "/productos/entre-montanas/ander-boxy-top/verde-rosado-2.webp",
+                "/productos/entre-montanas/ander-boxy-top/verde-rosado-3.webp"
+            ],
+            "thumbnail": "/productos/entre-montanas/ander-boxy-top/morado-verde-1.webp"
+        },
+        {
+            "handle": "mana-tank-top-entre-montanas",
+            "title": "Mana Tank Top",
+            "collection": "ENTRE MONTAÑAS",
+            "category": "ROPA",
+            "tag": "RUNNING",
+            "price": 25,
+            "description": "Diseñada para acompañarte cuando toca moverse. No promete hacerte correr más rápido. Solo busca que nada en la ropa te distraiga de hacerlo. Ligera, fresca y de secado rápido, hecha para entrenamientos diarios, fondos largos y días de carrera.",
+            "details": "Peso aproximado: 52 g (talla S)\nComposición: 92% poliéster, 8% spandex\nTela dinámica: ligera, fresca y de secado rápido\nCorte diseñado para acompañar el movimiento sin limitarlo\nPerfecta para entrenamientos diarios y días de carrera",
+            "care": "Aguanta pela. Apta para lavadora y secadora sin comprometer su desempeño.",
+            "options": {
+                "Color": [
+                    "Morado-Verde",
+                    "Verde-Rosado"
+                ],
+                "Género": [
+                    "Mujer"
+                ],
+                "Talla": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            "colors": {
+                "Morado-Verde": "#281720",
+                "Verde-Rosado": "#35310f"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Morado-Verde",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/mana-tank-top/morado-verde-1.webp",
+                        "/productos/entre-montanas/mana-tank-top/morado-verde-2.webp",
+                        "/productos/entre-montanas/mana-tank-top/morado-verde-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Morado-Verde",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/mana-tank-top/morado-verde-1.webp",
+                        "/productos/entre-montanas/mana-tank-top/morado-verde-2.webp",
+                        "/productos/entre-montanas/mana-tank-top/morado-verde-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Morado-Verde",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/mana-tank-top/morado-verde-1.webp",
+                        "/productos/entre-montanas/mana-tank-top/morado-verde-2.webp",
+                        "/productos/entre-montanas/mana-tank-top/morado-verde-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Morado-Verde",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/mana-tank-top/morado-verde-1.webp",
+                        "/productos/entre-montanas/mana-tank-top/morado-verde-2.webp",
+                        "/productos/entre-montanas/mana-tank-top/morado-verde-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Verde-Rosado",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/mana-tank-top/verde-rosado-1.webp",
+                        "/productos/entre-montanas/mana-tank-top/verde-rosado-2.webp",
+                        "/productos/entre-montanas/mana-tank-top/verde-rosado-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Verde-Rosado",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/mana-tank-top/verde-rosado-1.webp",
+                        "/productos/entre-montanas/mana-tank-top/verde-rosado-2.webp",
+                        "/productos/entre-montanas/mana-tank-top/verde-rosado-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Verde-Rosado",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/mana-tank-top/verde-rosado-1.webp",
+                        "/productos/entre-montanas/mana-tank-top/verde-rosado-2.webp",
+                        "/productos/entre-montanas/mana-tank-top/verde-rosado-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Verde-Rosado",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/mana-tank-top/verde-rosado-1.webp",
+                        "/productos/entre-montanas/mana-tank-top/verde-rosado-2.webp",
+                        "/productos/entre-montanas/mana-tank-top/verde-rosado-3.webp"
+                    ]
+                }
+            ],
+            "origen": "excel",
+            "images": [
+                "/productos/entre-montanas/mana-tank-top/morado-verde-1.webp",
+                "/productos/entre-montanas/mana-tank-top/morado-verde-2.webp",
+                "/productos/entre-montanas/mana-tank-top/morado-verde-3.webp",
+                "/productos/entre-montanas/mana-tank-top/verde-rosado-1.webp",
+                "/productos/entre-montanas/mana-tank-top/verde-rosado-2.webp",
+                "/productos/entre-montanas/mana-tank-top/verde-rosado-3.webp"
+            ],
+            "thumbnail": "/productos/entre-montanas/mana-tank-top/morado-verde-1.webp"
+        },
+        {
+            "handle": "mesh-top-entre-montanas",
+            "title": "Mesh Top",
+            "collection": "ENTRE MONTAÑAS",
+            "category": "ROPA",
+            "tag": "RUNNING",
+            "price": 25,
+            "description": "La probamos con Todas Las Caracas y se nos fue de las manos: todo el mundo la quería. Es una malla que se te pega al cuerpo, respira con cada kilómetro y se seca en nada, aunque te eches el vaso de agua encima. No la sientes cuando corres. Y sí, también es la más bonita para el café de después.",
+            "details": "Tejido mesh (malla) transpirable\nLigera y de secado rápido\nIdeal para entrenamientos con calor y días de carrera",
+            "care": "Aguanta pela. Apta para lavadora y secadora sin comprometer su desempeño.",
+            "options": {
+                "Color": [
+                    "Morado-Verde",
+                    "Verde-Rosado"
+                ],
+                "Género": [
+                    "Mujer"
+                ],
+                "Talla": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            "colors": {
+                "Morado-Verde": "#3c3238",
+                "Verde-Rosado": "#3e3c22"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Morado-Verde",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/mesh-top/morado-verde-1.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Morado-Verde",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/mesh-top/morado-verde-1.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Morado-Verde",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/mesh-top/morado-verde-1.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Morado-Verde",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/mesh-top/morado-verde-1.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Verde-Rosado",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/mesh-top/verde-rosado-1.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Verde-Rosado",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/mesh-top/verde-rosado-1.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Verde-Rosado",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/mesh-top/verde-rosado-1.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Verde-Rosado",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/entre-montanas/mesh-top/verde-rosado-1.webp"
+                    ]
+                }
+            ],
+            "origen": "excel",
+            "images": [
+                "/productos/entre-montanas/mesh-top/morado-verde-1.webp",
+                "/productos/entre-montanas/mesh-top/verde-rosado-1.webp"
+            ],
+            "thumbnail": "/productos/entre-montanas/mesh-top/morado-verde-1.webp"
+        },
+        {
+            "handle": "la-running-cap",
+            "title": "La Running Cap",
+            "collection": "GENERAL",
+            "category": "ACCESORIOS",
+            "tag": null,
+            "price": 25,
+            "description": "La gorra que se queda en su sitio cuando el sol de la mañana aprieta. Liviana, fresca y lista para el fondo largo o para el café de después.",
+            "details": "Tela liviana que respira\nCierre ajustable atrás\nLogo KM43 al frente",
+            "care": "A mano, con agua fría y jabón suave. Que se seque al aire: nada de secadora.",
+            "options": {
+                "Color": [
+                    "Negro",
+                    "Blanco",
+                    "Azul clarito"
+                ],
+                "Género": [
+                    "Unisex"
+                ],
+                "Talla": [
+                    "Talla única"
+                ]
+            },
+            "colors": {
+                "Negro": "#040403",
+                "Blanco": "#d2d0ca",
+                "Azul clarito": "#a7b6c9"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Negro",
+                        "Género": "Unisex",
+                        "Talla": "Talla única"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/general/la-running-cap/negro-1.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Blanco",
+                        "Género": "Unisex",
+                        "Talla": "Talla única"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/general/la-running-cap/blanco-1.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Azul clarito",
+                        "Género": "Unisex",
+                        "Talla": "Talla única"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/general/la-running-cap/azul-clarito-1.webp"
+                    ]
+                }
+            ],
+            "origen": "excel",
+            "images": [
+                "/productos/general/la-running-cap/negro-1.webp",
+                "/productos/general/la-running-cap/blanco-1.webp",
+                "/productos/general/la-running-cap/azul-clarito-1.webp"
+            ],
+            "thumbnail": "/productos/general/la-running-cap/negro-1.webp"
+        },
+        {
+            "handle": "medias-km43",
+            "title": "Medias KM43",
+            "collection": "GENERAL",
+            "category": "ACCESORIOS",
+            "tag": null,
+            "price": 8,
+            "description": "Las medias que se te olvida que tienes puestas. Finas, frescas y hechas para el calor de aquí: para el rodaje de todos los días y para el día de carrera.",
+            "details": "Blancas con negro, con el logo de KM43\n100% poliéster\nTejido fino, liviano y fresco, para que el pie respire y se mantenga seco\nAjustan sin apretar, para que no te acuerdes de ellas en el kilómetro 30",
+            "care": "Lávalas una vez antes de estrenarlas en carrera: el primer lavado les quita lo resbaloso de la tela nueva y el pie no baila dentro del zapato. Después, al revés, en agua fría y sin secadora.",
+            "options": {
+                "Color": [
+                    "Blanco con negro"
+                ],
+                "Género": [
+                    "Unisex"
+                ],
+                "Talla": [
+                    "Talla única"
+                ]
+            },
+            "colors": {
+                "Blanco con negro": "#e2e2e2"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Blanco con negro",
+                        "Género": "Unisex",
+                        "Talla": "Talla única"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/general/medias-km43/blanco-con-negro-1.webp",
+                        "/productos/general/medias-km43/blanco-con-negro-2.webp"
+                    ]
+                }
+            ],
+            "origen": "excel",
+            "images": [
+                "/productos/general/medias-km43/blanco-con-negro-1.webp",
+                "/productos/general/medias-km43/blanco-con-negro-2.webp"
+            ],
+            "thumbnail": "/productos/general/medias-km43/blanco-con-negro-1.webp"
+        },
+        {
+            "handle": "tapa-asientos-km43",
+            "title": "Tapa asientos KM43",
+            "collection": "GENERAL",
+            "category": "ACCESORIOS",
+            "tag": null,
+            "price": 40,
+            "description": "Para el viaje de vuelta: te montas sudado, empapado o con barro hasta las rodillas y el asiento ni se entera. Lo pones, lo quitas, lo lavas y listo para el próximo fondo.",
+            "details": "Se ajusta a la mayoría de los asientos de carro\nLogo KM43",
+            "care": "A la lavadora en agua fría y al tendedero. Listo para el próximo barro.",
+            "options": {
+                "Color": [
+                    "Único"
+                ],
+                "Talla": [
+                    "Talla única"
+                ]
+            },
+            "colors": {
+                "Único": "#4f4f4f"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Único",
+                        "Talla": "Talla única"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/general/tapa-asientos-km43/unico-1.webp"
+                    ]
+                }
+            ],
+            "origen": "excel",
+            "images": [
+                "/productos/general/tapa-asientos-km43/unico-1.webp"
+            ],
+            "thumbnail": "/productos/general/tapa-asientos-km43/unico-1.webp"
+        },
+        {
+            "handle": "nestor-franelilla-caracas-en-el-26",
+            "title": "Néstor Franelilla",
+            "collection": "CARACAS EN EL 26",
+            "category": "ROPA",
+            "tag": "RUNNING",
+            "price": 25,
+            "description": "Diseñada para acompañarte cuando toca moverse. No promete hacerte correr más rápido. Solo busca que nada en la ropa te distraiga de hacerlo. Ligera, fresca y de secado rápido, hecha para entrenamientos diarios, fondos largos y días de carrera.",
+            "details": "Peso aproximado: 52 g (talla S)\nComposición: 92% poliéster, 8% spandex\nTela dinámica: ligera, fresca y de secado rápido\nCorte diseñado para acompañar el movimiento sin limitarlo\nPerfecta para entrenamientos diarios y días de carrera",
+            "care": "Aguanta pela. Apta para lavadora y secadora sin comprometer su desempeño.",
+            "options": {
+                "Color": [
+                    "Amanecer",
+                    "Caracas en el 26",
+                    "Crepúsculo"
+                ],
+                "Género": [
+                    "Hombre"
+                ],
+                "Talla": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            "colors": {
+                "Amanecer": "#520a2b",
+                "Caracas en el 26": "#dcdcdc",
+                "Crepúsculo": "#3d3448"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Amanecer",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/nestor-franelilla/amanecer-1.webp",
+                        "/productos/caracas-en-el-26/nestor-franelilla/amanecer-2.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Amanecer",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/nestor-franelilla/amanecer-1.webp",
+                        "/productos/caracas-en-el-26/nestor-franelilla/amanecer-2.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Amanecer",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/nestor-franelilla/amanecer-1.webp",
+                        "/productos/caracas-en-el-26/nestor-franelilla/amanecer-2.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Amanecer",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/nestor-franelilla/amanecer-1.webp",
+                        "/productos/caracas-en-el-26/nestor-franelilla/amanecer-2.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Caracas en el 26",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/nestor-franelilla/caracas-en-el-26-1.webp",
+                        "/productos/caracas-en-el-26/nestor-franelilla/caracas-en-el-26-2.webp",
+                        "/productos/caracas-en-el-26/nestor-franelilla/caracas-en-el-26-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Caracas en el 26",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/nestor-franelilla/caracas-en-el-26-1.webp",
+                        "/productos/caracas-en-el-26/nestor-franelilla/caracas-en-el-26-2.webp",
+                        "/productos/caracas-en-el-26/nestor-franelilla/caracas-en-el-26-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Caracas en el 26",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/nestor-franelilla/caracas-en-el-26-1.webp",
+                        "/productos/caracas-en-el-26/nestor-franelilla/caracas-en-el-26-2.webp",
+                        "/productos/caracas-en-el-26/nestor-franelilla/caracas-en-el-26-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Caracas en el 26",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/nestor-franelilla/caracas-en-el-26-1.webp",
+                        "/productos/caracas-en-el-26/nestor-franelilla/caracas-en-el-26-2.webp",
+                        "/productos/caracas-en-el-26/nestor-franelilla/caracas-en-el-26-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Crepúsculo",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/nestor-franelilla/crepusculo-1.webp",
+                        "/productos/caracas-en-el-26/nestor-franelilla/crepusculo-2.webp",
+                        "/productos/caracas-en-el-26/nestor-franelilla/crepusculo-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Crepúsculo",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/nestor-franelilla/crepusculo-1.webp",
+                        "/productos/caracas-en-el-26/nestor-franelilla/crepusculo-2.webp",
+                        "/productos/caracas-en-el-26/nestor-franelilla/crepusculo-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Crepúsculo",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/nestor-franelilla/crepusculo-1.webp",
+                        "/productos/caracas-en-el-26/nestor-franelilla/crepusculo-2.webp",
+                        "/productos/caracas-en-el-26/nestor-franelilla/crepusculo-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Crepúsculo",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/nestor-franelilla/crepusculo-1.webp",
+                        "/productos/caracas-en-el-26/nestor-franelilla/crepusculo-2.webp",
+                        "/productos/caracas-en-el-26/nestor-franelilla/crepusculo-3.webp"
+                    ]
+                }
+            ],
+            "origen": "carpetas + datos del Excel",
+            "images": [
+                "/productos/caracas-en-el-26/nestor-franelilla/amanecer-1.webp",
+                "/productos/caracas-en-el-26/nestor-franelilla/amanecer-2.webp",
+                "/productos/caracas-en-el-26/nestor-franelilla/caracas-en-el-26-1.webp",
+                "/productos/caracas-en-el-26/nestor-franelilla/caracas-en-el-26-2.webp",
+                "/productos/caracas-en-el-26/nestor-franelilla/caracas-en-el-26-3.webp",
+                "/productos/caracas-en-el-26/nestor-franelilla/crepusculo-1.webp",
+                "/productos/caracas-en-el-26/nestor-franelilla/crepusculo-2.webp",
+                "/productos/caracas-en-el-26/nestor-franelilla/crepusculo-3.webp"
+            ],
+            "thumbnail": "/productos/caracas-en-el-26/nestor-franelilla/amanecer-1.webp"
+        },
+        {
+            "handle": "nestor-franelilla-valencia-run-club",
+            "title": "Néstor Franelilla",
+            "collection": "VALENCIA RUN CLUB",
+            "category": "ROPA",
+            "tag": "RUNNING",
+            "price": 25,
+            "description": "Diseñada para acompañarte cuando toca moverse. No promete hacerte correr más rápido. Solo busca que nada en la ropa te distraiga de hacerlo. Ligera, fresca y de secado rápido, hecha para entrenamientos diarios, fondos largos y días de carrera.",
+            "details": "Peso aproximado: 52 g (talla S)\nComposición: 92% poliéster, 8% spandex\nTela dinámica: ligera, fresca y de secado rápido\nCorte diseñado para acompañar el movimiento sin limitarlo\nPerfecta para entrenamientos diarios y días de carrera",
+            "care": "Aguanta pela. Apta para lavadora y secadora sin comprometer su desempeño.",
+            "options": {
+                "Color": [
+                    "Cantina"
+                ],
+                "Género": [
+                    "Hombre"
+                ],
+                "Talla": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            "colors": {
+                "Cantina": "#2e6c55"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Cantina",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/nestor-franelilla/cantina-1.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Cantina",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/nestor-franelilla/cantina-1.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Cantina",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/nestor-franelilla/cantina-1.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Cantina",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/nestor-franelilla/cantina-1.webp"
+                    ]
+                }
+            ],
+            "origen": "carpetas + datos del Excel",
+            "images": [
+                "/productos/valencia-run-club/nestor-franelilla/cantina-1.webp"
+            ],
+            "thumbnail": "/productos/valencia-run-club/nestor-franelilla/cantina-1.webp"
+        },
+        {
+            "handle": "mana-tank-top-caracas-en-el-26",
+            "title": "Mana Tank Top",
+            "collection": "CARACAS EN EL 26",
+            "category": "ROPA",
+            "tag": "RUNNING",
+            "price": 25,
+            "description": "Diseñada para acompañarte cuando toca moverse. No promete hacerte correr más rápido. Solo busca que nada en la ropa te distraiga de hacerlo. Ligera, fresca y de secado rápido, hecha para entrenamientos diarios, fondos largos y días de carrera.",
+            "details": "Peso aproximado: 52 g (talla S)\nComposición: 92% poliéster, 8% spandex\nTela dinámica: ligera, fresca y de secado rápido\nCorte diseñado para acompañar el movimiento sin limitarlo\nPerfecta para entrenamientos diarios y días de carrera",
+            "care": "Aguanta pela. Apta para lavadora y secadora sin comprometer su desempeño.",
+            "options": {
+                "Color": [
+                    "Amanecer",
+                    "Caracas en el 26",
+                    "Crepúsculo"
+                ],
+                "Género": [
+                    "Mujer"
+                ],
+                "Talla": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            "colors": {
+                "Amanecer": "#3c0d21",
+                "Caracas en el 26": "#dedede",
+                "Crepúsculo": "#465567"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Amanecer",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/mana-tank-top/amanecer-1.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/amanecer-2.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/amanecer-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Amanecer",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/mana-tank-top/amanecer-1.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/amanecer-2.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/amanecer-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Amanecer",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/mana-tank-top/amanecer-1.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/amanecer-2.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/amanecer-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Amanecer",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/mana-tank-top/amanecer-1.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/amanecer-2.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/amanecer-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Caracas en el 26",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/mana-tank-top/caracas-en-el-26-1.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/caracas-en-el-26-2.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/caracas-en-el-26-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Caracas en el 26",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/mana-tank-top/caracas-en-el-26-1.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/caracas-en-el-26-2.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/caracas-en-el-26-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Caracas en el 26",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/mana-tank-top/caracas-en-el-26-1.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/caracas-en-el-26-2.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/caracas-en-el-26-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Caracas en el 26",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/mana-tank-top/caracas-en-el-26-1.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/caracas-en-el-26-2.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/caracas-en-el-26-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Crepúsculo",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/mana-tank-top/crepusculo-1.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/crepusculo-2.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/crepusculo-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Crepúsculo",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/mana-tank-top/crepusculo-1.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/crepusculo-2.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/crepusculo-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Crepúsculo",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/mana-tank-top/crepusculo-1.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/crepusculo-2.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/crepusculo-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Crepúsculo",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/mana-tank-top/crepusculo-1.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/crepusculo-2.webp",
+                        "/productos/caracas-en-el-26/mana-tank-top/crepusculo-3.webp"
+                    ]
+                }
+            ],
+            "origen": "carpetas + datos del Excel",
+            "images": [
+                "/productos/caracas-en-el-26/mana-tank-top/amanecer-1.webp",
+                "/productos/caracas-en-el-26/mana-tank-top/amanecer-2.webp",
+                "/productos/caracas-en-el-26/mana-tank-top/amanecer-3.webp",
+                "/productos/caracas-en-el-26/mana-tank-top/caracas-en-el-26-1.webp",
+                "/productos/caracas-en-el-26/mana-tank-top/caracas-en-el-26-2.webp",
+                "/productos/caracas-en-el-26/mana-tank-top/caracas-en-el-26-3.webp",
+                "/productos/caracas-en-el-26/mana-tank-top/crepusculo-1.webp",
+                "/productos/caracas-en-el-26/mana-tank-top/crepusculo-2.webp",
+                "/productos/caracas-en-el-26/mana-tank-top/crepusculo-3.webp"
+            ],
+            "thumbnail": "/productos/caracas-en-el-26/mana-tank-top/amanecer-1.webp"
+        },
+        {
+            "handle": "mana-tank-top-valencia-run-club",
+            "title": "Mana Tank Top",
+            "collection": "VALENCIA RUN CLUB",
+            "category": "ROPA",
+            "tag": "RUNNING",
+            "price": 25,
+            "description": "Diseñada para acompañarte cuando toca moverse. No promete hacerte correr más rápido. Solo busca que nada en la ropa te distraiga de hacerlo. Ligera, fresca y de secado rápido, hecha para entrenamientos diarios, fondos largos y días de carrera.",
+            "details": "Peso aproximado: 52 g (talla S)\nComposición: 92% poliéster, 8% spandex\nTela dinámica: ligera, fresca y de secado rápido\nCorte diseñado para acompañar el movimiento sin limitarlo\nPerfecta para entrenamientos diarios y días de carrera",
+            "care": "Aguanta pela. Apta para lavadora y secadora sin comprometer su desempeño.",
+            "options": {
+                "Color": [
+                    "Cantina",
+                    "Orquídea"
+                ],
+                "Género": [
+                    "Mujer"
+                ],
+                "Talla": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            "colors": {
+                "Cantina": "#30624f",
+                "Orquídea": "#571e1f"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Cantina",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/mana-tank-top/cantina-1.webp",
+                        "/productos/valencia-run-club/mana-tank-top/cantina-2.webp",
+                        "/productos/valencia-run-club/mana-tank-top/cantina-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Cantina",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/mana-tank-top/cantina-1.webp",
+                        "/productos/valencia-run-club/mana-tank-top/cantina-2.webp",
+                        "/productos/valencia-run-club/mana-tank-top/cantina-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Cantina",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/mana-tank-top/cantina-1.webp",
+                        "/productos/valencia-run-club/mana-tank-top/cantina-2.webp",
+                        "/productos/valencia-run-club/mana-tank-top/cantina-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Cantina",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/mana-tank-top/cantina-1.webp",
+                        "/productos/valencia-run-club/mana-tank-top/cantina-2.webp",
+                        "/productos/valencia-run-club/mana-tank-top/cantina-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Orquídea",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/mana-tank-top/orquidea-1.webp",
+                        "/productos/valencia-run-club/mana-tank-top/orquidea-2.webp",
+                        "/productos/valencia-run-club/mana-tank-top/orquidea-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Orquídea",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/mana-tank-top/orquidea-1.webp",
+                        "/productos/valencia-run-club/mana-tank-top/orquidea-2.webp",
+                        "/productos/valencia-run-club/mana-tank-top/orquidea-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Orquídea",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/mana-tank-top/orquidea-1.webp",
+                        "/productos/valencia-run-club/mana-tank-top/orquidea-2.webp",
+                        "/productos/valencia-run-club/mana-tank-top/orquidea-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Orquídea",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/mana-tank-top/orquidea-1.webp",
+                        "/productos/valencia-run-club/mana-tank-top/orquidea-2.webp",
+                        "/productos/valencia-run-club/mana-tank-top/orquidea-3.webp"
+                    ]
+                }
+            ],
+            "origen": "carpetas + datos del Excel",
+            "images": [
+                "/productos/valencia-run-club/mana-tank-top/cantina-1.webp",
+                "/productos/valencia-run-club/mana-tank-top/cantina-2.webp",
+                "/productos/valencia-run-club/mana-tank-top/cantina-3.webp",
+                "/productos/valencia-run-club/mana-tank-top/orquidea-1.webp",
+                "/productos/valencia-run-club/mana-tank-top/orquidea-2.webp",
+                "/productos/valencia-run-club/mana-tank-top/orquidea-3.webp"
+            ],
+            "thumbnail": "/productos/valencia-run-club/mana-tank-top/cantina-1.webp"
+        },
+        {
+            "handle": "ander-boxy-top-valencia-run-club",
+            "title": "Ander Boxy Top",
+            "collection": "VALENCIA RUN CLUB",
+            "category": "ROPA",
+            "tag": "RUNNING",
+            "price": 25,
+            "description": "Diseñada para acompañarte cuando toca moverse. No promete hacerte correr más rápido. Solo busca que nada en la ropa te distraiga de hacerlo. Ligera, fresca y de secado rápido, hecha para entrenamientos diarios, fondos largos y días de carrera.",
+            "details": "Peso aproximado: 52 g (talla S)\nComposición: 92% poliéster, 8% spandex\nTela dinámica: ligera, fresca y de secado rápido\nCorte diseñado para acompañar el movimiento sin limitarlo\nPerfecta para entrenamientos diarios y días de carrera",
+            "care": "Aguanta pela. Apta para lavadora y secadora sin comprometer su desempeño.",
+            "options": {
+                "Color": [
+                    "Cantina",
+                    "Orquídea"
+                ],
+                "Género": [
+                    "Mujer"
+                ],
+                "Talla": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            "colors": {
+                "Cantina": "#0f261b",
+                "Orquídea": "#020202"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Cantina",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/ander-boxy-top/cantina-1.webp",
+                        "/productos/valencia-run-club/ander-boxy-top/cantina-2.webp",
+                        "/productos/valencia-run-club/ander-boxy-top/cantina-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Cantina",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/ander-boxy-top/cantina-1.webp",
+                        "/productos/valencia-run-club/ander-boxy-top/cantina-2.webp",
+                        "/productos/valencia-run-club/ander-boxy-top/cantina-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Cantina",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/ander-boxy-top/cantina-1.webp",
+                        "/productos/valencia-run-club/ander-boxy-top/cantina-2.webp",
+                        "/productos/valencia-run-club/ander-boxy-top/cantina-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Cantina",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/ander-boxy-top/cantina-1.webp",
+                        "/productos/valencia-run-club/ander-boxy-top/cantina-2.webp",
+                        "/productos/valencia-run-club/ander-boxy-top/cantina-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Orquídea",
+                        "Género": "Mujer",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/ander-boxy-top/orquidea-1.webp",
+                        "/productos/valencia-run-club/ander-boxy-top/orquidea-2.webp",
+                        "/productos/valencia-run-club/ander-boxy-top/orquidea-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Orquídea",
+                        "Género": "Mujer",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/ander-boxy-top/orquidea-1.webp",
+                        "/productos/valencia-run-club/ander-boxy-top/orquidea-2.webp",
+                        "/productos/valencia-run-club/ander-boxy-top/orquidea-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Orquídea",
+                        "Género": "Mujer",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/ander-boxy-top/orquidea-1.webp",
+                        "/productos/valencia-run-club/ander-boxy-top/orquidea-2.webp",
+                        "/productos/valencia-run-club/ander-boxy-top/orquidea-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Orquídea",
+                        "Género": "Mujer",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/ander-boxy-top/orquidea-1.webp",
+                        "/productos/valencia-run-club/ander-boxy-top/orquidea-2.webp",
+                        "/productos/valencia-run-club/ander-boxy-top/orquidea-3.webp"
+                    ]
+                }
+            ],
+            "origen": "carpetas + datos del Excel",
+            "images": [
+                "/productos/valencia-run-club/ander-boxy-top/cantina-1.webp",
+                "/productos/valencia-run-club/ander-boxy-top/cantina-2.webp",
+                "/productos/valencia-run-club/ander-boxy-top/cantina-3.webp",
+                "/productos/valencia-run-club/ander-boxy-top/orquidea-1.webp",
+                "/productos/valencia-run-club/ander-boxy-top/orquidea-2.webp",
+                "/productos/valencia-run-club/ander-boxy-top/orquidea-3.webp"
+            ],
+            "thumbnail": "/productos/valencia-run-club/ander-boxy-top/cantina-1.webp"
+        },
+        {
+            "handle": "andres-t-shirt-caracas-en-el-26",
+            "title": "Andrés T-shirt",
+            "collection": "CARACAS EN EL 26",
+            "category": "ROPA",
+            "tag": "RUNNING",
+            "price": 25,
+            "description": "Diseñada para acompañarte cuando toca moverse. No promete hacerte correr más rápido. Solo busca que nada en la ropa te distraiga de hacerlo. Ligera, fresca y de secado rápido, hecha para entrenamientos diarios, fondos largos y días de carrera.",
+            "details": "Peso aproximado: 52 g (talla S)\nComposición: 92% poliéster, 8% spandex\nTela dinámica: ligera, fresca y de secado rápido\nCorte diseñado para acompañar el movimiento sin limitarlo\nPerfecta para entrenamientos diarios y días de carrera",
+            "care": "Aguanta pela. Apta para lavadora y secadora sin comprometer su desempeño.",
+            "options": {
+                "Color": [
+                    "Amanecer",
+                    "Caracas en el 26 Dinámica",
+                    "Crepúsculo"
+                ],
+                "Género": [
+                    "Hombre"
+                ],
+                "Talla": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            "colors": {
+                "Amanecer": "#441a20",
+                "Caracas en el 26 Dinámica": "#fbfbfb",
+                "Crepúsculo": "#373c48"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Amanecer",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/andres-t-shirt/amanecer-1.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/amanecer-2.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/amanecer-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Amanecer",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/andres-t-shirt/amanecer-1.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/amanecer-2.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/amanecer-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Amanecer",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/andres-t-shirt/amanecer-1.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/amanecer-2.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/amanecer-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Amanecer",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/andres-t-shirt/amanecer-1.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/amanecer-2.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/amanecer-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Caracas en el 26 Dinámica",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/andres-t-shirt/caracas-en-el-26-dinamica-1.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/caracas-en-el-26-dinamica-2.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/caracas-en-el-26-dinamica-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Caracas en el 26 Dinámica",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/andres-t-shirt/caracas-en-el-26-dinamica-1.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/caracas-en-el-26-dinamica-2.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/caracas-en-el-26-dinamica-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Caracas en el 26 Dinámica",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/andres-t-shirt/caracas-en-el-26-dinamica-1.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/caracas-en-el-26-dinamica-2.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/caracas-en-el-26-dinamica-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Caracas en el 26 Dinámica",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/andres-t-shirt/caracas-en-el-26-dinamica-1.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/caracas-en-el-26-dinamica-2.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/caracas-en-el-26-dinamica-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Crepúsculo",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/andres-t-shirt/crepusculo-1.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/crepusculo-2.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/crepusculo-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Crepúsculo",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/andres-t-shirt/crepusculo-1.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/crepusculo-2.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/crepusculo-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Crepúsculo",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/andres-t-shirt/crepusculo-1.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/crepusculo-2.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/crepusculo-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Crepúsculo",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/andres-t-shirt/crepusculo-1.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/crepusculo-2.webp",
+                        "/productos/caracas-en-el-26/andres-t-shirt/crepusculo-3.webp"
+                    ]
+                }
+            ],
+            "origen": "carpetas + datos del Excel",
+            "images": [
+                "/productos/caracas-en-el-26/andres-t-shirt/amanecer-1.webp",
+                "/productos/caracas-en-el-26/andres-t-shirt/amanecer-2.webp",
+                "/productos/caracas-en-el-26/andres-t-shirt/amanecer-3.webp",
+                "/productos/caracas-en-el-26/andres-t-shirt/caracas-en-el-26-dinamica-1.webp",
+                "/productos/caracas-en-el-26/andres-t-shirt/caracas-en-el-26-dinamica-2.webp",
+                "/productos/caracas-en-el-26/andres-t-shirt/caracas-en-el-26-dinamica-3.webp",
+                "/productos/caracas-en-el-26/andres-t-shirt/crepusculo-1.webp",
+                "/productos/caracas-en-el-26/andres-t-shirt/crepusculo-2.webp",
+                "/productos/caracas-en-el-26/andres-t-shirt/crepusculo-3.webp"
+            ],
+            "thumbnail": "/productos/caracas-en-el-26/andres-t-shirt/amanecer-1.webp"
+        },
+        {
+            "handle": "andres-t-shirt-valencia-run-club",
+            "title": "Andrés T-shirt",
+            "collection": "VALENCIA RUN CLUB",
+            "category": "ROPA",
+            "tag": "RUNNING",
+            "price": 25,
+            "description": "Diseñada para acompañarte cuando toca moverse. No promete hacerte correr más rápido. Solo busca que nada en la ropa te distraiga de hacerlo. Ligera, fresca y de secado rápido, hecha para entrenamientos diarios, fondos largos y días de carrera.",
+            "details": "Peso aproximado: 52 g (talla S)\nComposición: 92% poliéster, 8% spandex\nTela dinámica: ligera, fresca y de secado rápido\nCorte diseñado para acompañar el movimiento sin limitarlo\nPerfecta para entrenamientos diarios y días de carrera",
+            "care": "Aguanta pela. Apta para lavadora y secadora sin comprometer su desempeño.",
+            "options": {
+                "Color": [
+                    "Cantina",
+                    "Orquídea"
+                ],
+                "Género": [
+                    "Hombre"
+                ],
+                "Talla": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            "colors": {
+                "Cantina": "#386a57",
+                "Orquídea": "#0e0c0b"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Cantina",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/andres-t-shirt/cantina-1.webp",
+                        "/productos/valencia-run-club/andres-t-shirt/cantina-2.webp",
+                        "/productos/valencia-run-club/andres-t-shirt/cantina-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Cantina",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/andres-t-shirt/cantina-1.webp",
+                        "/productos/valencia-run-club/andres-t-shirt/cantina-2.webp",
+                        "/productos/valencia-run-club/andres-t-shirt/cantina-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Cantina",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/andres-t-shirt/cantina-1.webp",
+                        "/productos/valencia-run-club/andres-t-shirt/cantina-2.webp",
+                        "/productos/valencia-run-club/andres-t-shirt/cantina-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Cantina",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/andres-t-shirt/cantina-1.webp",
+                        "/productos/valencia-run-club/andres-t-shirt/cantina-2.webp",
+                        "/productos/valencia-run-club/andres-t-shirt/cantina-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Orquídea",
+                        "Género": "Hombre",
+                        "Talla": "S"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/andres-t-shirt/orquidea-1.webp",
+                        "/productos/valencia-run-club/andres-t-shirt/orquidea-2.webp",
+                        "/productos/valencia-run-club/andres-t-shirt/orquidea-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Orquídea",
+                        "Género": "Hombre",
+                        "Talla": "M"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/andres-t-shirt/orquidea-1.webp",
+                        "/productos/valencia-run-club/andres-t-shirt/orquidea-2.webp",
+                        "/productos/valencia-run-club/andres-t-shirt/orquidea-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Orquídea",
+                        "Género": "Hombre",
+                        "Talla": "L"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/andres-t-shirt/orquidea-1.webp",
+                        "/productos/valencia-run-club/andres-t-shirt/orquidea-2.webp",
+                        "/productos/valencia-run-club/andres-t-shirt/orquidea-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Orquídea",
+                        "Género": "Hombre",
+                        "Talla": "XL"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/andres-t-shirt/orquidea-1.webp",
+                        "/productos/valencia-run-club/andres-t-shirt/orquidea-2.webp",
+                        "/productos/valencia-run-club/andres-t-shirt/orquidea-3.webp"
+                    ]
+                }
+            ],
+            "origen": "carpetas + datos del Excel",
+            "images": [
+                "/productos/valencia-run-club/andres-t-shirt/cantina-1.webp",
+                "/productos/valencia-run-club/andres-t-shirt/cantina-2.webp",
+                "/productos/valencia-run-club/andres-t-shirt/cantina-3.webp",
+                "/productos/valencia-run-club/andres-t-shirt/orquidea-1.webp",
+                "/productos/valencia-run-club/andres-t-shirt/orquidea-2.webp",
+                "/productos/valencia-run-club/andres-t-shirt/orquidea-3.webp"
+            ],
+            "thumbnail": "/productos/valencia-run-club/andres-t-shirt/cantina-1.webp"
+        },
+        {
+            "handle": "caracas-en-el-26",
+            "title": "Caracas en el 26",
+            "collection": "CARACAS EN EL 26",
+            "category": null,
+            "tag": null,
+            "price": null,
+            "description": "",
+            "details": "",
+            "care": "",
+            "options": {
+                "Color": [
+                    "Blanco",
+                    "Negro"
+                ]
+            },
+            "colors": {
+                "Blanco": "#e4e4e4",
+                "Negro": "#242424"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Blanco"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/caracas-en-el-26/blanco-1.webp",
+                        "/productos/caracas-en-el-26/caracas-en-el-26/blanco-2.webp",
+                        "/productos/caracas-en-el-26/caracas-en-el-26/blanco-3.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Negro"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/caracas-en-el-26/negro-1.webp",
+                        "/productos/caracas-en-el-26/caracas-en-el-26/negro-2.webp",
+                        "/productos/caracas-en-el-26/caracas-en-el-26/negro-3.webp"
+                    ]
+                }
+            ],
+            "origen": "carpetas (sin datos)",
+            "images": [
+                "/productos/caracas-en-el-26/caracas-en-el-26/blanco-1.webp",
+                "/productos/caracas-en-el-26/caracas-en-el-26/blanco-2.webp",
+                "/productos/caracas-en-el-26/caracas-en-el-26/blanco-3.webp",
+                "/productos/caracas-en-el-26/caracas-en-el-26/negro-1.webp",
+                "/productos/caracas-en-el-26/caracas-en-el-26/negro-2.webp",
+                "/productos/caracas-en-el-26/caracas-en-el-26/negro-3.webp"
+            ],
+            "thumbnail": "/productos/caracas-en-el-26/caracas-en-el-26/blanco-1.webp"
+        },
+        {
+            "handle": "poder-de-correr",
+            "title": "Poder de correr",
+            "collection": "CARACAS EN EL 26",
+            "category": null,
+            "tag": null,
+            "price": null,
+            "description": "",
+            "details": "",
+            "care": "",
+            "options": {
+                "Color": [
+                    "Único"
+                ]
+            },
+            "colors": {
+                "Único": "#e1e1e1"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Único"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/caracas-en-el-26/poder-de-correr/unico-1.webp",
+                        "/productos/caracas-en-el-26/poder-de-correr/unico-2.webp",
+                        "/productos/caracas-en-el-26/poder-de-correr/unico-3.webp"
+                    ]
+                }
+            ],
+            "origen": "carpetas (sin datos)",
+            "images": [
+                "/productos/caracas-en-el-26/poder-de-correr/unico-1.webp",
+                "/productos/caracas-en-el-26/poder-de-correr/unico-2.webp",
+                "/productos/caracas-en-el-26/poder-de-correr/unico-3.webp"
+            ],
+            "thumbnail": "/productos/caracas-en-el-26/poder-de-correr/unico-1.webp"
+        },
+        {
+            "handle": "valencia-run-club",
+            "title": "Valencia Run Club",
+            "collection": "VALENCIA RUN CLUB",
+            "category": null,
+            "tag": null,
+            "price": null,
+            "description": "",
+            "details": "",
+            "care": "",
+            "options": {
+                "Color": [
+                    "Negro",
+                    "Vinotinto"
+                ]
+            },
+            "colors": {
+                "Negro": "#202020",
+                "Vinotinto": "#5a2125"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Negro"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/valencia-run-club/negro-1.webp",
+                        "/productos/valencia-run-club/valencia-run-club/negro-2.webp",
+                        "/productos/valencia-run-club/valencia-run-club/negro-3.webp",
+                        "/productos/valencia-run-club/valencia-run-club/negro-4.webp"
+                    ]
+                },
+                {
+                    "options": {
+                        "Color": "Vinotinto"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/valencia-run-club/valencia-run-club/vinotinto-1.webp",
+                        "/productos/valencia-run-club/valencia-run-club/vinotinto-2.webp",
+                        "/productos/valencia-run-club/valencia-run-club/vinotinto-3.webp",
+                        "/productos/valencia-run-club/valencia-run-club/vinotinto-4.webp"
+                    ]
+                }
+            ],
+            "origen": "carpetas (sin datos)",
+            "images": [
+                "/productos/valencia-run-club/valencia-run-club/negro-1.webp",
+                "/productos/valencia-run-club/valencia-run-club/negro-2.webp",
+                "/productos/valencia-run-club/valencia-run-club/negro-3.webp",
+                "/productos/valencia-run-club/valencia-run-club/negro-4.webp",
+                "/productos/valencia-run-club/valencia-run-club/vinotinto-1.webp",
+                "/productos/valencia-run-club/valencia-run-club/vinotinto-2.webp",
+                "/productos/valencia-run-club/valencia-run-club/vinotinto-3.webp",
+                "/productos/valencia-run-club/valencia-run-club/vinotinto-4.webp"
+            ],
+            "thumbnail": "/productos/valencia-run-club/valencia-run-club/negro-1.webp"
+        },
+        {
+            "handle": "gorra-blanca-km43-caf-2026",
+            "title": "Gorra Blanca KM43 CAF 2026",
+            "collection": null,
+            "category": null,
+            "tag": null,
+            "price": null,
+            "description": "",
+            "details": "",
+            "care": "",
+            "options": {
+                "Color": [
+                    "Blanco"
+                ]
+            },
+            "colors": {
+                "Blanco": "#d2d0ca"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Blanco"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/colecciones-pasadas/gorra-blanca-km43-caf-2026/blanco-1.webp"
+                    ]
+                }
+            ],
+            "origen": "carpetas (sin datos)",
+            "images": [
+                "/productos/colecciones-pasadas/gorra-blanca-km43-caf-2026/blanco-1.webp"
+            ],
+            "thumbnail": "/productos/colecciones-pasadas/gorra-blanca-km43-caf-2026/blanco-1.webp"
+        },
+        {
+            "handle": "gorra-negra-lineas-km43",
+            "title": "Gorra Negra Líneas KM43",
+            "collection": null,
+            "category": null,
+            "tag": null,
+            "price": null,
+            "description": "",
+            "details": "",
+            "care": "",
+            "options": {
+                "Color": [
+                    "Negro"
+                ]
+            },
+            "colors": {
+                "Negro": "#22221f"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Negro"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/colecciones-pasadas/gorra-negra-lineas-km43/negro-1.webp"
+                    ]
+                }
+            ],
+            "origen": "carpetas (sin datos)",
+            "images": [
+                "/productos/colecciones-pasadas/gorra-negra-lineas-km43/negro-1.webp"
+            ],
+            "thumbnail": "/productos/colecciones-pasadas/gorra-negra-lineas-km43/negro-1.webp"
+        },
+        {
+            "handle": "gorra-verde-cuadros-km43",
+            "title": "Gorra Verde Cuadros KM43",
+            "collection": null,
+            "category": null,
+            "tag": null,
+            "price": null,
+            "description": "",
+            "details": "",
+            "care": "",
+            "options": {
+                "Color": [
+                    "Verde"
+                ]
+            },
+            "colors": {
+                "Verde": "#042c14"
+            },
+            "variants": [
+                {
+                    "options": {
+                        "Color": "Verde"
+                    },
+                    "stock": 24,
+                    "images": [
+                        "/productos/colecciones-pasadas/gorra-verde-cuadros-km43/verde-1.webp"
+                    ]
+                }
+            ],
+            "origen": "carpetas (sin datos)",
+            "images": [
+                "/productos/colecciones-pasadas/gorra-verde-cuadros-km43/verde-1.webp"
+            ],
+            "thumbnail": "/productos/colecciones-pasadas/gorra-verde-cuadros-km43/verde-1.webp"
+        }
+    ]
+}

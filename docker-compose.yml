@@ -1,0 +1,24 @@
+﻿# docker-compose.yml — Postgres local para el backend de Medusa (solo desarrollo)
+# Uso:  docker compose up -d
+# URL:  postgres://postgres:postgres@localhost:5432/km46
+services:
+  postgres:
+    image: postgres:16
+    container_name: km46-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: km46
+    ports:
+      - "5432:5432"
+    volumes:
+      - km46_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d km46"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  km46_pgdata:
